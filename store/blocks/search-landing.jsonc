@@ -13,5 +13,11 @@
                 "maxItemsPerPage": 8
             }
         }
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth": "100%",
+            "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hotmart.com%2Fpt-br%2Fo-que-e-landing-page%2F&psig=AOvVaw29jmeBRYqclGSmzHr0MkB0&ust=1596927138986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIisma2XiusCFQAAAAAdAAAAABAD"
+        }
     }
 }
